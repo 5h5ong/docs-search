@@ -1,1 +1,6 @@
-fastapi[all]
+fastapi
+uvicorn[standard]
+langchain
+pinecone-client
+sentence-transformers
+openai
